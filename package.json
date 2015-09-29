@@ -1,6 +1,6 @@
 {
   "name": "simple-rbac-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Complement to be used with the module simple-rbac",
   "main": "index.js",
   "repository": {
@@ -26,6 +26,10 @@
   },
   "homepage": "https://github.com/LucianoGanga/simple-rbac-utils",
   "devDependencies": {
+    "lodash": "3.10.0",
+    "winston": "1.0.0"
+  },
+  "dependencies": {
     "lodash": "3.10.0",
     "winston": "1.0.0"
   },
