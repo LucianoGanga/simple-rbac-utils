@@ -1,2 +1,2 @@
-# simple-rbac-utils
-Extra functions to use with the module "simple-rbac"
+# simple-rbac-utils - introduction
+Complement of the module [simple-rbac](https://github.com/LucianoGanga/simple-rbac)
