@@ -1,6 +1,6 @@
 {
   "name": "simple-rbac-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Complement to be used with the module simple-rbac",
   "main": "index.js",
   "repository": {
