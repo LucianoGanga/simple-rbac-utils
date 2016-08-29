@@ -31,7 +31,7 @@ var User = function(user) {
 		},
 		hasRole: function(roleName) {
 			var userRoles = _.groupBy(user.roles, 'name');
-			if (userRoles.indexOf(roleName) > -1) {
+			if (userRoles[roleName]) {
 				return true;
 			}
 			return false
